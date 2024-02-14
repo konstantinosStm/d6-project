@@ -1,0 +1,22 @@
+Graph named 'stochastic_block_model' with 1000 nodes and 55593 edges
+The modularity is: 0.27032389639999443
+The length of cluster   0    is 103
+The length of cluster   1    is 397
+The length of cluster   2    is 300
+The length of cluster   3    is 200
+51.800000000000004 % of the users are affiliated
+Cluster  0  has  50.48543689320388 % affiliated streamers
+Cluster  1  has  53.65239294710327 % affiliated streamers
+Cluster  2  has  48.666666666666664 % affiliated streamers
+Cluster  3  has  53.5 % affiliated streamers
+Clusters have an average of  51.57612412674346 % affiliated streamers
+
+Cluster  0  has  51.48514851485149 % affiliated streamers
+Cluster  1  has  53.24074074074074 % affiliated streamers
+Cluster  2  has  51.40845070422535 % affiliated streamers
+Cluster  3  has  53.5 % affiliated streamers
+Clusters have an average of  52.4085849899544 % affiliated streamers
+CPU times: total: 6.09 s
+Wall time: 2.69 s
+
+[52, 230, 146, 107]

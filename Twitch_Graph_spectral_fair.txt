@@ -1,0 +1,23 @@
+Graph with 168114 nodes and 6797557 edges
+The modularity is: 0.01577789908121674
+The length of cluster   0    is 44283
+The length of cluster   1    is 42103
+The length of cluster   2    is 39742
+The length of cluster   3    is 41986
+48.50637067704058 % of the users are affiliated
+Cluster  0  has  49.44786938554299 % affiliated streamers
+Cluster  1  has  48.99888368999834 % affiliated streamers
+Cluster  2  has  47.57435458708671 % affiliated streamers
+Cluster  3  has  47.90168151288525 % affiliated streamers
+Clusters have an average of  48.480697293878315 % affiliated streamers
+0             2 0
+
+Cluster  0  has  49.41773865944482 % affiliated streamers
+Cluster  1  has  48.99888368999834 % affiliated streamers
+Cluster  2  has  47.606697721264005 % affiliated streamers
+Cluster  3  has  47.90168151288525 % affiliated streamers
+Clusters have an average of  48.4812503958981 % affiliated streamers
+CPU times: total: 34.3 s
+Wall time: 41.2 s
+
+[21897, 20630, 18907, 20112]
